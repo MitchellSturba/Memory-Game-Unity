@@ -1,5 +1,6 @@
 # Memory-Game-Unity
 This space-themed flash card game was built with Unity and C#.  Correctly match all pairs of cards to win!
+Choose to match either 6, 7, 8, 9, or 10 unique pairs of cards!
 
 ![MainMenu](Sturbam_MemoryGame/MainMenu.png)
 MainMenu
